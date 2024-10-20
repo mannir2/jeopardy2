@@ -39,12 +39,12 @@ const gameData = {
                 "category": "Category 1",
                 "clues": [
                     {
-                        "value": 200,
+                        "value": 400,
                         "clue": "This is a sample clue.",
                         "solution": "What is the sample solution?"
                     },
                     {
-                        "value": 400,
+                        "value": 800,
                         "clue": "This is a sample clue.",
                         "solution": "What is the sample solution?"
                     }
@@ -54,12 +54,12 @@ const gameData = {
                 "category": "Category 2",
                 "clues": [
                     {
-                        "value": 200,
+                        "value": 400,
                         "clue": "This is a sample clue.",
                         "solution": "What is the sample solution?"
                     },
                     {
-                        "value": 400,
+                        "value": 800,
                         "clue": "This is a sample clue.",
                         "solution": "What is the sample solution?"
                     }
