@@ -13,8 +13,8 @@ const gameData = {
                     },
                     {
                         "value": 400,
-                        "clue": "This is a sample clue.",
-                        "solution": "What is the sample solution?"
+                        "clue": "Question 2",
+                        "solution": "Answer 2"
                     }
                 ]
             },
